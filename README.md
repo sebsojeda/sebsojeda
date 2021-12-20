@@ -1,8 +1,7 @@
-[![Sebastian Ojeda's header](./assets/header.gif)](https://sebastianojeda.com)
-
 [![Twitter badge](https://img.shields.io/badge/Twitter-Follow-white?color=white&logo=twitter&labelColor=1DA1F2&logoColor=white)](https://twitter.com/sebsojeda)
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-Connect-white?color=white&logo=linkedin&labelColor=0077B5&logoColor=white)](https://linkedin.com/in/sebastian-ojeda)
-[![CodePen badge](https://img.shields.io/badge/CodePen-Profile-white?color=white&logo=codepen&labelColor=black&logoColor=white)](https://codepen.io/sebsojeda)
+
+<!-- [![CodePen badge](https://img.shields.io/badge/CodePen-Profile-white?color=white&logo=codepen&labelColor=black&logoColor=white)](https://codepen.io/sebsojeda) -->
 
 ## Hi there 👋
 
